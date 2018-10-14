@@ -1,0 +1,2 @@
+demo file text file1.txt
+sample text file added staging area
